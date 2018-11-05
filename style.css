@@ -1,0 +1,88 @@
+/* START HEADER */
+.header{
+    margin: 15px;
+}
+.header_area {
+    background: #6495ED;
+    padding: 10px;
+}
+p {
+    font-size: 20px;
+}
+.header_area p {
+    background: #E8E5E5;
+    padding: 16px;
+
+}
+
+/* END HEADER */
+
+/* START ADD  */
+.add_row {
+    margin-bottom: 10px; 
+    padding-bottom: 20px;
+    background: #E8E5E5;
+}
+.add_row p {
+    padding-bottom: 105px;
+}
+.body_add_row {
+    margin-bottom: 10px; 
+    padding-bottom: 20px;
+    background: #E8E5E5;
+    border: 1px solid black;
+}
+/* END ADD*/
+
+.hero {
+    margin: 15px;
+}
+.hero_row {
+    background: #6495ED;
+    padding: 10px;
+}
+.hero_row p {
+    background: #E8E5E5;
+    padding: 16px;
+}
+
+.hero_text{
+    
+}
+
+
+/* END HERO AREA */
+
+/* START BODY AREA */
+.body {
+    margin: 15px;
+}
+.body_row {
+    background: #6495ED;
+    padding: 10px;
+}
+.body_col {
+    background: #E8E5E5;
+    padding: 16px;
+}
+.sidebar {
+    background: #6495ED;
+    padding: 10px;
+}
+.sidebar_col {
+    background: #E8E5E5;
+    padding: 16px;
+}
+/* END BODY AREA  */
+
+/* START FOOTER AREA */
+.footer_area {
+    background: #6495ED;
+    padding: 10px;
+}
+.footer_area_text {
+    
+    padding: 10px;
+}
+
+/* END FOOTER AREA */
